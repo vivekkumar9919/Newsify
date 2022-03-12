@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* ################# navbar edit ################## */
+#newsify{
+    color: white;
+    font-size: 22px;
+}
+#editNav{
+    color: white;
+    letter-spacing: 1px ;
+    font-size: 18px;
+    margin-right: 25px;
+}
+#editNav:hover{
+    background-color: blue;
+    border-radius: 10px;
+}
